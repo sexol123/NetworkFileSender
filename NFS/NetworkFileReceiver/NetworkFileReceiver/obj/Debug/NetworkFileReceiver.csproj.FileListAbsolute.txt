@@ -1,0 +1,8 @@
+C:\Users\sergei\Desktop\NetworkFileReceiver\NetworkFileReceiver\bin\Debug\NetworkFileReceiver.exe
+C:\Users\sergei\Desktop\NetworkFileReceiver\NetworkFileReceiver\bin\Debug\NetworkFileReceiver.pdb
+C:\Users\sergei\Desktop\NetworkFileReceiver\NetworkFileReceiver\obj\Debug\NetworkFileReceiver.csprojResolveAssemblyReference.cache
+C:\Users\sergei\Desktop\NetworkFileReceiver\NetworkFileReceiver\obj\Debug\NetworkFileReceiver.Form1.resources
+C:\Users\sergei\Desktop\NetworkFileReceiver\NetworkFileReceiver\obj\Debug\NetworkFileReceiver.Properties.Resources.resources
+C:\Users\sergei\Desktop\NetworkFileReceiver\NetworkFileReceiver\obj\Debug\NetworkFileReceiver.csproj.GenerateResource.Cache
+C:\Users\sergei\Desktop\NetworkFileReceiver\NetworkFileReceiver\obj\Debug\NetworkFileReceiver.exe
+C:\Users\sergei\Desktop\NetworkFileReceiver\NetworkFileReceiver\obj\Debug\NetworkFileReceiver.pdb

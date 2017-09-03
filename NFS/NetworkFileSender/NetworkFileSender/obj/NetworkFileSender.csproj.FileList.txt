@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\NetworkFileSender.Form1.resources
+obj\Debug\NetworkFileSender.Properties.Resources.resources
+obj\Debug\NetworkFileSender.csproj.GenerateResource.Cache
+bin\Debug\NetworkFileSender.exe
+bin\Debug\NetworkFileSender.pdb
+obj\Debug\NetworkFileSender.exe
+obj\Debug\NetworkFileSender.pdb

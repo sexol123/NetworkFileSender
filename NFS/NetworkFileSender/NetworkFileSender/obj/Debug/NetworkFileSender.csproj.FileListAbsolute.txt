@@ -1,0 +1,8 @@
+C:\Users\sergei\Desktop\NetworkFileSender\NetworkFileSender\bin\Debug\NetworkFileSender.exe
+C:\Users\sergei\Desktop\NetworkFileSender\NetworkFileSender\bin\Debug\NetworkFileSender.pdb
+C:\Users\sergei\Desktop\NetworkFileSender\NetworkFileSender\obj\Debug\NetworkFileSender.csprojResolveAssemblyReference.cache
+C:\Users\sergei\Desktop\NetworkFileSender\NetworkFileSender\obj\Debug\NetworkFileSender.Form1.resources
+C:\Users\sergei\Desktop\NetworkFileSender\NetworkFileSender\obj\Debug\NetworkFileSender.Properties.Resources.resources
+C:\Users\sergei\Desktop\NetworkFileSender\NetworkFileSender\obj\Debug\NetworkFileSender.csproj.GenerateResource.Cache
+C:\Users\sergei\Desktop\NetworkFileSender\NetworkFileSender\obj\Debug\NetworkFileSender.exe
+C:\Users\sergei\Desktop\NetworkFileSender\NetworkFileSender\obj\Debug\NetworkFileSender.pdb

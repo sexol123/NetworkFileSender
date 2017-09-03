@@ -1,0 +1,8 @@
+bin\Debug\NetworkFileReceiver.exe
+bin\Debug\NetworkFileReceiver.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\NetworkFileReceiver.Form1.resources
+obj\Debug\NetworkFileReceiver.Properties.Resources.resources
+obj\Debug\NetworkFileReceiver.csproj.GenerateResource.Cache
+obj\Debug\NetworkFileReceiver.exe
+obj\Debug\NetworkFileReceiver.pdb
